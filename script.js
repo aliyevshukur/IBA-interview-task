@@ -5,7 +5,7 @@ const swapVariables = (a, b) => {
   console.log("a: ", a, "b: ", b);
 };
 
-swapVariables(1, 2);
+swapVariables(3, 2);
 
 // Task 2
 const findExtra = (longAr, shortAr) => {
